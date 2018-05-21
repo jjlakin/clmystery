@@ -1,0 +1,26 @@
+(standard input)-(standard input)-(standard input)-vehicles:7166:License Plate L337QE9
+(standard input):(standard input)-(standard input)-vehicles-7167-Make: Honda
+(standard input)-(standard input)-(standard input):vehicles-7168-Color: Blue
+(standard input)-(standard input)-(standard input)-vehicles-7169-Owner: Erika Owens
+(standard input)-(standard input):(standard input)-vehicles-7170-Height: 6'5"
+--
+--
+(standard input)-(standard input)-(standard input)-vehicles:24834:License Plate L337DV9
+(standard input):(standard input)-(standard input)-vehicles-24835-Make: Honda
+(standard input)-(standard input)-(standard input):vehicles-24836-Color: Blue
+(standard input)-(standard input)-(standard input)-vehicles-24837-Owner: Joe Germuska
+(standard input)-(standard input):(standard input)-vehicles-24838-Height: 6'2"
+--
+--
+(standard input)-(standard input)-(standard input)-vehicles:31827:License Plate L3375A9
+(standard input):(standard input)-(standard input)-vehicles-31828-Make: Honda
+(standard input)-(standard input)-(standard input):vehicles-31829-Color: Blue
+(standard input)-(standard input)-(standard input)-vehicles-31830-Owner: Jeremy Bowers
+(standard input)-(standard input):(standard input)-vehicles-31831-Height: 6'1"
+--
+--
+(standard input)-(standard input)-(standard input)-vehicles:34312:License Plate L337WR9
+(standard input):(standard input)-(standard input)-vehicles-34313-Make: Honda
+(standard input)-(standard input)-(standard input):vehicles-34314-Color: Blue
+(standard input)-(standard input)-(standard input)-vehicles-34315-Owner: Jacqui Maher
+(standard input)-(standard input):(standard input)-vehicles-34316-Height: 6'2"
